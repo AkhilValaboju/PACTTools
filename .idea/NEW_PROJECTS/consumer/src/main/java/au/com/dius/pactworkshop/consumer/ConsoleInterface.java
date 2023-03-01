@@ -12,7 +12,7 @@ import java.util.stream.IntStream;
 public class ConsoleInterface implements CommandLineRunner {
 
     private final ProductService productService;
-
+//
     private List<Product> products;
 
     @Autowired
